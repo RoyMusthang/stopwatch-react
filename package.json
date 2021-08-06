@@ -1,5 +1,6 @@
 {
   "name": "stopwatch-react",
+  "homepage": "stopwatch-react/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
